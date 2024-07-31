@@ -1,0 +1,15 @@
+C:\CSharp_Repo\miPrimerApp\miPrimerApp\obj\Debug\net8.0\miPrimerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp_Repo\miPrimerApp\miPrimerApp\obj\Debug\net8.0\miPrimerApp.AssemblyInfoInputs.cache
+C:\CSharp_Repo\miPrimerApp\miPrimerApp\obj\Debug\net8.0\miPrimerApp.AssemblyInfo.cs
+C:\CSharp_Repo\miPrimerApp\miPrimerApp\obj\Debug\net8.0\miPrimerApp.csproj.CoreCompileInputs.cache
+C:\CSharp_Repo\miPrimerApp\miPrimerApp\obj\Debug\net8.0\miPrimerApp.sourcelink.json
+C:\CSharp_Repo\miPrimerApp\miPrimerApp\bin\Debug\net8.0\miPrimerApp.exe
+C:\CSharp_Repo\miPrimerApp\miPrimerApp\bin\Debug\net8.0\miPrimerApp.deps.json
+C:\CSharp_Repo\miPrimerApp\miPrimerApp\bin\Debug\net8.0\miPrimerApp.runtimeconfig.json
+C:\CSharp_Repo\miPrimerApp\miPrimerApp\bin\Debug\net8.0\miPrimerApp.dll
+C:\CSharp_Repo\miPrimerApp\miPrimerApp\bin\Debug\net8.0\miPrimerApp.pdb
+C:\CSharp_Repo\miPrimerApp\miPrimerApp\obj\Debug\net8.0\miPrimerApp.dll
+C:\CSharp_Repo\miPrimerApp\miPrimerApp\obj\Debug\net8.0\refint\miPrimerApp.dll
+C:\CSharp_Repo\miPrimerApp\miPrimerApp\obj\Debug\net8.0\miPrimerApp.pdb
+C:\CSharp_Repo\miPrimerApp\miPrimerApp\obj\Debug\net8.0\miPrimerApp.genruntimeconfig.cache
+C:\CSharp_Repo\miPrimerApp\miPrimerApp\obj\Debug\net8.0\ref\miPrimerApp.dll
