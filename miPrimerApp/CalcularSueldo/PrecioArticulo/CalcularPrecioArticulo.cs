@@ -28,6 +28,7 @@
                 if (string.IsNullOrEmpty(linea))
                 {
                     Console.WriteLine("El valor es requerido");
+                    return;
                 }
 
                 if (!int.TryParse(linea, out precioArticulo))
@@ -43,6 +44,7 @@
                 if(string.IsNullOrEmpty(linea))
                 {
                     Console.Write("El valor es requerido");
+                    return;
                 }
 
                 if (!int.TryParse(linea, out cantidadDineroCliente))
