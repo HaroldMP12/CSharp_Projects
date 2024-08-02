@@ -17,7 +17,7 @@
             int num3 = 0;
             int num4 = 0;
             int suma = 0;
-            int promedio = 0;
+            float promedio = 0;
             string linea = string.Empty;
 
             //Solicitar al usuario los valores
@@ -94,7 +94,7 @@
                 num4 = Convert.ToInt32(Console.ReadLine());
 
                 suma = (num1 + num2 + num3 + num4);
-                promedio = (num1 + num2 + num3 + num4 / 4);
+                promedio = suma / 4.0f;
 
                 Console.WriteLine($"El resultado de la suma es: {suma} y el promedio es: {promedio}");
             }
