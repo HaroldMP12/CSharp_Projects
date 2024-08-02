@@ -3,12 +3,12 @@
 namespace CalcularSueldo.Superficie
 {
     /// <summary>
-    /// 
+    /// Calcular lados de una superficie y imprimir su valor
     /// </summary>
     public class CalcularSuperficie
     {
         /// <summary>
-        /// 
+        /// Calcula los lados de la superficie
         /// </summary>
         public void Calcular()
         {
