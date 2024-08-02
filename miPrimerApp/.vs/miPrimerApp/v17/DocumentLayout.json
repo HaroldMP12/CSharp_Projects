@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\CSharp_Repo\\miPrimerApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{315C02C1-CC37-41D9-AB8F-3A55FAFDDE5D}|miPrimerApp\\miPrimerApp.csproj|c:\\csharp_repo\\miprimerapp\\miprimerapp\\operaciones\\operacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{315C02C1-CC37-41D9-AB8F-3A55FAFDDE5D}|miPrimerApp\\miPrimerApp.csproj|solutionrelative:miprimerapp\\operaciones\\operacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{315C02C1-CC37-41D9-AB8F-3A55FAFDDE5D}|miPrimerApp\\miPrimerApp.csproj|c:\\csharp_repo\\miprimerapp\\miprimerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{315C02C1-CC37-41D9-AB8F-3A55FAFDDE5D}|miPrimerApp\\miPrimerApp.csproj|solutionrelative:miprimerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4B03380-8B65-43E0-A625-9B6FEB8C369A}|CalcularSueldo\\CalcularSueldo.csproj|c:\\csharp_repo\\miprimerapp\\calcularsueldo\\producto\u0026suma\\calcularproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B03380-8B65-43E0-A625-9B6FEB8C369A}|CalcularSueldo\\CalcularSueldo.csproj|solutionrelative:calcularsueldo\\producto\u0026suma\\calcularproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +14,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Operacion.cs",
-              "DocumentMoniker": "C:\\CSharp_Repo\\miPrimerApp\\miPrimerApp\\Operaciones\\Operacion.cs",
-              "RelativeDocumentMoniker": "miPrimerApp\\Operaciones\\Operacion.cs",
-              "ToolTip": "C:\\CSharp_Repo\\miPrimerApp\\miPrimerApp\\Operaciones\\Operacion.cs*",
-              "RelativeToolTip": "miPrimerApp\\Operaciones\\Operacion.cs*",
-              "ViewState": "AQIAABUAAAAAAAAAAAA1wCEAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T03:38:32.08Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\CSharp_Repo\\miPrimerApp\\miPrimerApp\\Program.cs",
-              "RelativeDocumentMoniker": "miPrimerApp\\Program.cs",
-              "ToolTip": "C:\\CSharp_Repo\\miPrimerApp\\miPrimerApp\\Program.cs",
-              "RelativeToolTip": "miPrimerApp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "CalcularProducto.cs",
+              "DocumentMoniker": "C:\\CSharp_Repo\\miPrimerApp\\CalcularSueldo\\Producto\u0026Suma\\CalcularProducto.cs",
+              "RelativeDocumentMoniker": "CalcularSueldo\\Producto\u0026Suma\\CalcularProducto.cs",
+              "ToolTip": "C:\\CSharp_Repo\\miPrimerApp\\CalcularSueldo\\Producto\u0026Suma\\CalcularProducto.cs",
+              "RelativeToolTip": "CalcularSueldo\\Producto\u0026Suma\\CalcularProducto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T02:54:49.425Z",
+              "WhenOpened": "2024-08-02T01:06:59.24Z",
               "EditorCaption": ""
             }
           ]
