@@ -8,7 +8,7 @@
         /// <summary>
         /// Mostrar la suma y el producto apartir de dos enteros.
         /// </summary>
-        public void Calcular()
+        public void CalcularProductoSuma()
         {
             //Declaramos variables
 
@@ -25,6 +25,11 @@
                 Console.WriteLine("Por favor digite el primer número: ");
                 linea = Console.ReadLine();
 
+                if (string.IsNullOrEmpty(linea))
+                {
+                    Console.WriteLine($"El valor es requerido: { linea }");
+                }
+
                 //Validando el tipo de dato
 
                 if (!int.TryParse(linea, out num1))
@@ -33,10 +38,15 @@
                     return;
                 }
 
-                num1 = Convert.ToInt32(Console.ReadLine());
+                num1 = Convert.ToInt32(linea);
 
                 Console.WriteLine("Por favor digite el segundo número: ");
                 linea = Console.ReadLine();
+
+                if (string.IsNullOrEmpty(linea))
+                {
+                    Console.WriteLine($"El valor es requerido: { linea }");
+                }
 
                 if (!int.TryParse(linea, out num2))
                 {
@@ -44,7 +54,7 @@
                     return;
                 }
 
-                num2 = Convert.ToInt32(Console.ReadLine());
+                num2 = Convert.ToInt32(linea);
 
                 suma = (num1 + num2);
                 producto = (num1 * num2);

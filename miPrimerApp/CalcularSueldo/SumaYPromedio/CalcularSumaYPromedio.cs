@@ -8,7 +8,7 @@
         /// <summary>
         /// Calcula los cuatro numeros los suma y los promedia
         /// </summary>
-        public void Calcular()
+        public void CalcularSumaPromedio()
         {
             //Declaramos las variables
 
@@ -26,7 +26,7 @@
             {
 
                 Console.Write("Ingrese el primer valor: ");
-                linea = string.Empty;
+                linea = Console.ReadLine();
 
                 if(string.IsNullOrEmpty(linea))
                 {
@@ -43,7 +43,7 @@
                 num1 = Convert.ToInt32(Console.ReadLine());
 
                 Console.Write("Ingrese el segundo valor: ");
-                linea = string.Empty;
+                linea = Console.ReadLine() ;
 
                 if (string.IsNullOrEmpty(linea))
                 {
@@ -60,7 +60,7 @@
                 num2 = Convert.ToInt32(Console.ReadLine());
 
                 Console.Write("Ingrese el tercer valor: ");
-                linea = string.Empty;
+                linea = Console.ReadLine();
 
                 if (string.IsNullOrEmpty(linea))
                 {
@@ -77,7 +77,7 @@
                 num3 = Convert.ToInt32(Console.ReadLine());
 
                 Console.Write("Ingrese el cuarto valor: ");
-                linea = string.Empty;
+                linea = Console.ReadLine();
 
                 if (string.IsNullOrEmpty(linea))
                 {

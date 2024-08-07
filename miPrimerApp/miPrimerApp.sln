@@ -5,7 +5,7 @@ VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "miPrimerApp", "miPrimerApp\miPrimerApp.csproj", "{315C02C1-CC37-41D9-AB8F-3A55FAFDDE5D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcularSueldo", "CalcularSueldo\CalcularSueldo.csproj", "{B4B03380-8B65-43E0-A625-9B6FEB8C369A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalcularSueldo", "CalcularSueldo\CalcularSueldo.csproj", "{B4B03380-8B65-43E0-A625-9B6FEB8C369A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

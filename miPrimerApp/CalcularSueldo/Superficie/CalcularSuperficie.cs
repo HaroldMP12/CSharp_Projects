@@ -10,7 +10,7 @@ namespace CalcularSueldo.Superficie
         /// <summary>
         /// Calcula los lados de la superficie
         /// </summary>
-        public void Calcular()
+        public void CalcularLadosSuperficie()
         {
             //Declaramos las variables
 
@@ -28,7 +28,7 @@ namespace CalcularSueldo.Superficie
 
                 if(string.IsNullOrEmpty(linea))
                 {
-                    Console.WriteLine($"El lado es requerido");
+                    Console.WriteLine($"El lado es requerido: { linea }");
                     return;
                 }
 

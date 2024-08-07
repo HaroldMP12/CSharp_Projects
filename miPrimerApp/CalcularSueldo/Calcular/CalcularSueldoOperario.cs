@@ -29,6 +29,12 @@
             {
                 Console.WriteLine("Por favor ingrese las horas trabajadas: ");
                 linea = Console.ReadLine();
+
+                if (string.IsNullOrEmpty(linea))
+                {
+                    Console.WriteLine($"El valor es requerido: {linea}");
+                }
+
                 if (!int.TryParse(linea, out horasTrabajadas))
                 {
                     Console.WriteLine($"Horas trabajadas inválidas: {linea}, favor de ingresar valores correctos.");

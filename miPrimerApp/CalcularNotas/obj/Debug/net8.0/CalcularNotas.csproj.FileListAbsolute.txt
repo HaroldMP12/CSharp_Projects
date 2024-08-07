@@ -1,0 +1,5 @@
+C:\CSharp_Repo\miPrimerApp\CalcularNotas\obj\Debug\net8.0\CalcularNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp_Repo\miPrimerApp\CalcularNotas\obj\Debug\net8.0\CalcularNotas.AssemblyInfoInputs.cache
+C:\CSharp_Repo\miPrimerApp\CalcularNotas\obj\Debug\net8.0\CalcularNotas.AssemblyInfo.cs
+C:\CSharp_Repo\miPrimerApp\CalcularNotas\obj\Debug\net8.0\CalcularNotas.csproj.CoreCompileInputs.cache
+C:\CSharp_Repo\miPrimerApp\CalcularNotas\obj\Debug\net8.0\CalcularNotas.sourcelink.json
