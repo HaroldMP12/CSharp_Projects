@@ -1,8 +1,19 @@
-﻿using CalcularNotas.Calificaciones;
+﻿using CalcularNotas;
+using CalcularNotas.Impuestos;
+using CalcularNotas.Promedio;
+using CalcularNotas.Test;
 
-CalcularCalificacionesYPromedio calificacionesYPromedio = new CalcularCalificacionesYPromedio;
+Calificaciones calificaciones = new Calificaciones();
+calificaciones.CalcularNumeros();
 
-calificacionesYPromedio.CalificacionesPromedio();
+CalcularSueldo sueldo = new CalcularSueldo();
+sueldo.CalcularAbonoImpuesto();
 
-Console.ReadLine();
+CalificacionesYPromedio promedio = new CalificacionesYPromedio();
+promedio.PromedioNotas();
 
+CalcularNivelPostulante postulante = new CalcularNivelPostulante();
+postulante.CalcularNivel();
+
+
+Console.ReadLine(); 

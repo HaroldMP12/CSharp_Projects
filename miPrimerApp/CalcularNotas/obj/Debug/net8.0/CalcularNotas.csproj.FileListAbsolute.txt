@@ -1,5 +1,15 @@
+C:\CSharp_Repo\miPrimerApp\CalcularNotas\bin\Debug\net8.0\CalcularNotas.exe
+C:\CSharp_Repo\miPrimerApp\CalcularNotas\bin\Debug\net8.0\CalcularNotas.deps.json
+C:\CSharp_Repo\miPrimerApp\CalcularNotas\bin\Debug\net8.0\CalcularNotas.runtimeconfig.json
+C:\CSharp_Repo\miPrimerApp\CalcularNotas\bin\Debug\net8.0\CalcularNotas.dll
+C:\CSharp_Repo\miPrimerApp\CalcularNotas\bin\Debug\net8.0\CalcularNotas.pdb
 C:\CSharp_Repo\miPrimerApp\CalcularNotas\obj\Debug\net8.0\CalcularNotas.GeneratedMSBuildEditorConfig.editorconfig
 C:\CSharp_Repo\miPrimerApp\CalcularNotas\obj\Debug\net8.0\CalcularNotas.AssemblyInfoInputs.cache
 C:\CSharp_Repo\miPrimerApp\CalcularNotas\obj\Debug\net8.0\CalcularNotas.AssemblyInfo.cs
 C:\CSharp_Repo\miPrimerApp\CalcularNotas\obj\Debug\net8.0\CalcularNotas.csproj.CoreCompileInputs.cache
 C:\CSharp_Repo\miPrimerApp\CalcularNotas\obj\Debug\net8.0\CalcularNotas.sourcelink.json
+C:\CSharp_Repo\miPrimerApp\CalcularNotas\obj\Debug\net8.0\CalcularNotas.dll
+C:\CSharp_Repo\miPrimerApp\CalcularNotas\obj\Debug\net8.0\refint\CalcularNotas.dll
+C:\CSharp_Repo\miPrimerApp\CalcularNotas\obj\Debug\net8.0\CalcularNotas.pdb
+C:\CSharp_Repo\miPrimerApp\CalcularNotas\obj\Debug\net8.0\CalcularNotas.genruntimeconfig.cache
+C:\CSharp_Repo\miPrimerApp\CalcularNotas\obj\Debug\net8.0\ref\CalcularNotas.dll

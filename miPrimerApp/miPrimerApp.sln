@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "miPrimerApp", "miPrimerApp\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalcularSueldo", "CalcularSueldo\CalcularSueldo.csproj", "{B4B03380-8B65-43E0-A625-9B6FEB8C369A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcularNotas", "CalcularNotas\CalcularNotas.csproj", "{08A05367-A7D6-4B52-AD85-C4ADE3F5AF1D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B4B03380-8B65-43E0-A625-9B6FEB8C369A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4B03380-8B65-43E0-A625-9B6FEB8C369A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4B03380-8B65-43E0-A625-9B6FEB8C369A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08A05367-A7D6-4B52-AD85-C4ADE3F5AF1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08A05367-A7D6-4B52-AD85-C4ADE3F5AF1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08A05367-A7D6-4B52-AD85-C4ADE3F5AF1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08A05367-A7D6-4B52-AD85-C4ADE3F5AF1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
