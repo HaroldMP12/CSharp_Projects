@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\CSharp_Repo\\miPrimerApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08A05367-A7D6-4B52-AD85-C4ADE3F5AF1D}|CalcularNotas\\CalcularNotas.csproj|c:\\csharp_repo\\miprimerapp\\calcularnotas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08A05367-A7D6-4B52-AD85-C4ADE3F5AF1D}|CalcularNotas\\CalcularNotas.csproj|solutionrelative:calcularnotas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5A3ABFE-C94C-4AF4-99F1-F1838C2B1101}|CalcularNota\\CalcularNota.csproj|c:\\csharp_repo\\miprimerapp\\calcularnota\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A3ABFE-C94C-4AF4-99F1-F1838C2B1101}|CalcularNota\\CalcularNota.csproj|solutionrelative:calcularnota\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A3ABFE-C94C-4AF4-99F1-F1838C2B1101}|CalcularNota\\CalcularNota.csproj|c:\\csharp_repo\\miprimerapp\\calcularnota\\test\\calcularpromedionotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A3ABFE-C94C-4AF4-99F1-F1838C2B1101}|CalcularNota\\CalcularNota.csproj|solutionrelative:calcularnota\\test\\calcularpromedionotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,23 +18,40 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalcularPromedioNotas.cs",
+              "DocumentMoniker": "C:\\CSharp_Repo\\miPrimerApp\\CalcularNota\\Test\\CalcularPromedioNotas.cs",
+              "RelativeDocumentMoniker": "CalcularNota\\Test\\CalcularPromedioNotas.cs",
+              "ToolTip": "C:\\CSharp_Repo\\miPrimerApp\\CalcularNota\\Test\\CalcularPromedioNotas.cs",
+              "RelativeToolTip": "CalcularNota\\Test\\CalcularPromedioNotas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T21:04:47.492Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\CSharp_Repo\\miPrimerApp\\CalcularNotas\\Program.cs",
-              "RelativeDocumentMoniker": "CalcularNotas\\Program.cs",
-              "ToolTip": "C:\\CSharp_Repo\\miPrimerApp\\CalcularNotas\\Program.cs",
-              "RelativeToolTip": "CalcularNotas\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "DocumentMoniker": "C:\\CSharp_Repo\\miPrimerApp\\CalcularNota\\Program.cs",
+              "RelativeDocumentMoniker": "CalcularNota\\Program.cs",
+              "ToolTip": "C:\\CSharp_Repo\\miPrimerApp\\CalcularNota\\Program.cs",
+              "RelativeToolTip": "CalcularNota\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T18:42:35.165Z",
+              "WhenOpened": "2024-08-10T21:03:44.634Z",
               "EditorCaption": ""
             }
           ]
