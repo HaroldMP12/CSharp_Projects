@@ -1,0 +1,15 @@
+C:\CSharp_Repo\miPrimerApp\CalcularBuclesFor\bin\Debug\net8.0\CalcularBuclesFor.exe
+C:\CSharp_Repo\miPrimerApp\CalcularBuclesFor\bin\Debug\net8.0\CalcularBuclesFor.deps.json
+C:\CSharp_Repo\miPrimerApp\CalcularBuclesFor\bin\Debug\net8.0\CalcularBuclesFor.runtimeconfig.json
+C:\CSharp_Repo\miPrimerApp\CalcularBuclesFor\bin\Debug\net8.0\CalcularBuclesFor.dll
+C:\CSharp_Repo\miPrimerApp\CalcularBuclesFor\bin\Debug\net8.0\CalcularBuclesFor.pdb
+C:\CSharp_Repo\miPrimerApp\CalcularBuclesFor\obj\Debug\net8.0\CalcularBuclesFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp_Repo\miPrimerApp\CalcularBuclesFor\obj\Debug\net8.0\CalcularBuclesFor.AssemblyInfoInputs.cache
+C:\CSharp_Repo\miPrimerApp\CalcularBuclesFor\obj\Debug\net8.0\CalcularBuclesFor.AssemblyInfo.cs
+C:\CSharp_Repo\miPrimerApp\CalcularBuclesFor\obj\Debug\net8.0\CalcularBuclesFor.csproj.CoreCompileInputs.cache
+C:\CSharp_Repo\miPrimerApp\CalcularBuclesFor\obj\Debug\net8.0\CalcularBuclesFor.sourcelink.json
+C:\CSharp_Repo\miPrimerApp\CalcularBuclesFor\obj\Debug\net8.0\CalcularBuclesFor.dll
+C:\CSharp_Repo\miPrimerApp\CalcularBuclesFor\obj\Debug\net8.0\refint\CalcularBuclesFor.dll
+C:\CSharp_Repo\miPrimerApp\CalcularBuclesFor\obj\Debug\net8.0\CalcularBuclesFor.pdb
+C:\CSharp_Repo\miPrimerApp\CalcularBuclesFor\obj\Debug\net8.0\CalcularBuclesFor.genruntimeconfig.cache
+C:\CSharp_Repo\miPrimerApp\CalcularBuclesFor\obj\Debug\net8.0\ref\CalcularBuclesFor.dll
