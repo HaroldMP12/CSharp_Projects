@@ -13,17 +13,29 @@
         {
             //Declarando variables
 
-            decimal nota1 = 0;
-            decimal nota2 = 0;
-            decimal nota3 = 0;
             decimal totalNota = 0;
             decimal promedio = 0;
+            int cantidadNotas = 0;
             string linea = string.Empty;
 
             try
 			{
                 Console.WriteLine("Ingrese la cantidad de notas a promediar:  ");
-                int cantidadNotas = Convert.ToInt32(Console.ReadLine());
+                linea = Console.ReadLine();
+
+                if (string.IsNullOrEmpty(linea))
+                {
+                    Console.WriteLine($"El valor es requerido. { linea }");
+                    return;
+                }
+
+                if(!int.TryParse(linea, out cantidadNotas))
+                {
+                    Console.WriteLine($"El valor es inválido. { linea } "); 
+                    return;
+                }
+
+                cantidadNotas = Convert.ToInt32(linea);
 
 				for (int i = 1; i <= cantidadNotas; i++)
                 {
@@ -52,7 +64,6 @@
             }
 			catch (Exception ex)
 			{
-
 				Console.WriteLine($"Ocurrió el siguiente error: {ex.Message} en la ejecución del programa.");
 			}
         }

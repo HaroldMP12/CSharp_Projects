@@ -1,0 +1,15 @@
+C:\CSharp_Repo\miPrimerApp\CalcularLotePiezas\obj\Debug\net8.0\CalcularLotePiezas.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp_Repo\miPrimerApp\CalcularLotePiezas\obj\Debug\net8.0\CalcularLotePiezas.AssemblyInfoInputs.cache
+C:\CSharp_Repo\miPrimerApp\CalcularLotePiezas\obj\Debug\net8.0\CalcularLotePiezas.AssemblyInfo.cs
+C:\CSharp_Repo\miPrimerApp\CalcularLotePiezas\obj\Debug\net8.0\CalcularLotePiezas.csproj.CoreCompileInputs.cache
+C:\CSharp_Repo\miPrimerApp\CalcularLotePiezas\obj\Debug\net8.0\CalcularLotePiezas.sourcelink.json
+C:\CSharp_Repo\miPrimerApp\CalcularLotePiezas\bin\Debug\net8.0\CalcularLotePiezas.exe
+C:\CSharp_Repo\miPrimerApp\CalcularLotePiezas\bin\Debug\net8.0\CalcularLotePiezas.deps.json
+C:\CSharp_Repo\miPrimerApp\CalcularLotePiezas\bin\Debug\net8.0\CalcularLotePiezas.runtimeconfig.json
+C:\CSharp_Repo\miPrimerApp\CalcularLotePiezas\bin\Debug\net8.0\CalcularLotePiezas.dll
+C:\CSharp_Repo\miPrimerApp\CalcularLotePiezas\bin\Debug\net8.0\CalcularLotePiezas.pdb
+C:\CSharp_Repo\miPrimerApp\CalcularLotePiezas\obj\Debug\net8.0\CalcularLotePiezas.dll
+C:\CSharp_Repo\miPrimerApp\CalcularLotePiezas\obj\Debug\net8.0\refint\CalcularLotePiezas.dll
+C:\CSharp_Repo\miPrimerApp\CalcularLotePiezas\obj\Debug\net8.0\CalcularLotePiezas.pdb
+C:\CSharp_Repo\miPrimerApp\CalcularLotePiezas\obj\Debug\net8.0\CalcularLotePiezas.genruntimeconfig.cache
+C:\CSharp_Repo\miPrimerApp\CalcularLotePiezas\obj\Debug\net8.0\ref\CalcularLotePiezas.dll

@@ -12,40 +12,39 @@
         {
             //Declarando variables
 
-            decimal valor1 = 0;
-            decimal valor2 = 0;
-            decimal valor3 = 0;
-            decimal valor4 = 0;
-            decimal valor5 = 0;
-            decimal valor6 = 0;
-            decimal valor7 = 0;
-            decimal valor8 = 0;
-            decimal valor9 = 0;
-            decimal valor10 = 0;
-            decimal suma = 0;
+            int suma = 0;
             decimal promedio = 0;
-            decimal totalValores = 0;
+            int cantidad = 0;
+            int valor = 0;
             string linea = string.Empty;
-
 
             try
             {
-                for (int i = 1; i <= 10; i++)
+                Console.WriteLine("Por favor digite la cantidad de números a ingresar: ");
+                linea = Console.ReadLine();
+
+                if(string.IsNullOrEmpty(linea))
                 {
-                    Console.WriteLine($"Por favor digite el valor: {i}");
-                    linea = Console.ReadLine();
-
-                    if(string.IsNullOrEmpty(linea))
-                    {
-                        Console.WriteLine($"El valor es requerido.");
-                        return;
-                    }
-
-                    totalValores += Convert.ToDecimal(linea);
+                    Console.WriteLine($"El valor es requerido.");
+                    return;
                 }
 
-                suma = suma + totalValores;
-                promedio = suma / 10;
+                if (!int.TryParse(linea, out cantidad))
+                {
+                    Console.WriteLine($"El valor es inválido. { linea }");
+                    return;
+                }
+                cantidad = Convert.ToInt32(linea);
+
+                for (int i = 1; i <= cantidad; i++)
+                {
+                    Console.WriteLine($"Por favor digite el valor: {i}");
+                    valor = Convert.ToInt32(Console.ReadLine());
+
+                    suma = suma + valor;
+                }
+
+                promedio = (suma / cantidad);
 
                 Console.WriteLine($"El valor de la suma es: {suma} y el promedio: { promedio } "); 
             }
