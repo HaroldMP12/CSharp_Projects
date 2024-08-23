@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\CSharp_Repo\\miPrimerApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B69F2414-837E-46F8-ADEC-8463DF740342}|CalcularLotePiezas\\CalcularLotePiezas.csproj|c:\\csharp_repo\\miprimerapp\\calcularlotepiezas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B69F2414-837E-46F8-ADEC-8463DF740342}|CalcularLotePiezas\\CalcularLotePiezas.csproj|solutionrelative:calcularlotepiezas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B8172FE-8CDA-4E7E-A245-001ED7BE9D89}|CalcularBuclesFor\\CalcularBuclesFor.csproj|c:\\csharp_repo\\miprimerapp\\calcularbuclesfor\\suma\\calcularsumanumeros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8172FE-8CDA-4E7E-A245-001ED7BE9D89}|CalcularBuclesFor\\CalcularBuclesFor.csproj|solutionrelative:calcularbuclesfor\\suma\\calcularsumanumeros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8172FE-8CDA-4E7E-A245-001ED7BE9D89}|CalcularBuclesFor\\CalcularBuclesFor.csproj|c:\\csharp_repo\\miprimerapp\\calcularbuclesfor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8172FE-8CDA-4E7E-A245-001ED7BE9D89}|CalcularBuclesFor\\CalcularBuclesFor.csproj|solutionrelative:calcularbuclesfor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\CSharp_Repo\\miPrimerApp\\CalcularLotePiezas\\Program.cs",
-              "RelativeDocumentMoniker": "CalcularLotePiezas\\Program.cs",
-              "ToolTip": "C:\\CSharp_Repo\\miPrimerApp\\CalcularLotePiezas\\Program.cs",
-              "RelativeToolTip": "CalcularLotePiezas\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T01:09:35.858Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Bookmark",
@@ -36,6 +31,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CSharp_Repo\\miPrimerApp\\CalcularBuclesFor\\Program.cs",
+              "RelativeDocumentMoniker": "CalcularBuclesFor\\Program.cs",
+              "ToolTip": "C:\\CSharp_Repo\\miPrimerApp\\CalcularBuclesFor\\Program.cs",
+              "RelativeToolTip": "CalcularBuclesFor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T01:43:37.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalcularSumaNumeros.cs",
+              "DocumentMoniker": "C:\\CSharp_Repo\\miPrimerApp\\CalcularBuclesFor\\Suma\\CalcularSumaNumeros.cs",
+              "RelativeDocumentMoniker": "CalcularBuclesFor\\Suma\\CalcularSumaNumeros.cs",
+              "ToolTip": "C:\\CSharp_Repo\\miPrimerApp\\CalcularBuclesFor\\Suma\\CalcularSumaNumeros.cs",
+              "RelativeToolTip": "CalcularBuclesFor\\Suma\\CalcularSumaNumeros.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T01:32:41.339Z",
+              "EditorCaption": ""
             }
           ]
         }
