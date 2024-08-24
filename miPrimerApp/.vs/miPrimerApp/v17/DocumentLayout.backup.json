@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\CSharp_Repo\\miPrimerApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8B8172FE-8CDA-4E7E-A245-001ED7BE9D89}|CalcularBuclesFor\\CalcularBuclesFor.csproj|c:\\csharp_repo\\miprimerapp\\calcularbuclesfor\\suma\\calcularsumanumeros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B8172FE-8CDA-4E7E-A245-001ED7BE9D89}|CalcularBuclesFor\\CalcularBuclesFor.csproj|solutionrelative:calcularbuclesfor\\suma\\calcularsumanumeros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C392889-644E-40AD-90A7-5E424E97B5C6}|CalcularSueldoEmpleados\\CalcularSueldoEmpleados.csproj|c:\\csharp_repo\\miprimerapp\\calcularsueldoempleados\\empleados\\calcularingresosempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C392889-644E-40AD-90A7-5E424E97B5C6}|CalcularSueldoEmpleados\\CalcularSueldoEmpleados.csproj|solutionrelative:calcularsueldoempleados\\empleados\\calcularingresosempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B8172FE-8CDA-4E7E-A245-001ED7BE9D89}|CalcularBuclesFor\\CalcularBuclesFor.csproj|c:\\csharp_repo\\miprimerapp\\calcularbuclesfor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B8172FE-8CDA-4E7E-A245-001ED7BE9D89}|CalcularBuclesFor\\CalcularBuclesFor.csproj|solutionrelative:calcularbuclesfor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C392889-644E-40AD-90A7-5E424E97B5C6}|CalcularSueldoEmpleados\\CalcularSueldoEmpleados.csproj|c:\\csharp_repo\\miprimerapp\\calcularsueldoempleados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C392889-644E-40AD-90A7-5E424E97B5C6}|CalcularSueldoEmpleados\\CalcularSueldoEmpleados.csproj|solutionrelative:calcularsueldoempleados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,26 +36,26 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\CSharp_Repo\\miPrimerApp\\CalcularBuclesFor\\Program.cs",
-              "RelativeDocumentMoniker": "CalcularBuclesFor\\Program.cs",
-              "ToolTip": "C:\\CSharp_Repo\\miPrimerApp\\CalcularBuclesFor\\Program.cs",
-              "RelativeToolTip": "CalcularBuclesFor\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\CSharp_Repo\\miPrimerApp\\CalcularSueldoEmpleados\\Program.cs",
+              "RelativeDocumentMoniker": "CalcularSueldoEmpleados\\Program.cs",
+              "ToolTip": "C:\\CSharp_Repo\\miPrimerApp\\CalcularSueldoEmpleados\\Program.cs",
+              "RelativeToolTip": "CalcularSueldoEmpleados\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T01:43:37.225Z",
+              "WhenOpened": "2024-08-24T00:58:26.793Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CalcularSumaNumeros.cs",
-              "DocumentMoniker": "C:\\CSharp_Repo\\miPrimerApp\\CalcularBuclesFor\\Suma\\CalcularSumaNumeros.cs",
-              "RelativeDocumentMoniker": "CalcularBuclesFor\\Suma\\CalcularSumaNumeros.cs",
-              "ToolTip": "C:\\CSharp_Repo\\miPrimerApp\\CalcularBuclesFor\\Suma\\CalcularSumaNumeros.cs",
-              "RelativeToolTip": "CalcularBuclesFor\\Suma\\CalcularSumaNumeros.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwCoAAAAVAAAAAAAAAA==",
+              "Title": "CalcularIngresosEmpleados.cs",
+              "DocumentMoniker": "C:\\CSharp_Repo\\miPrimerApp\\CalcularSueldoEmpleados\\Empleados\\CalcularIngresosEmpleados.cs",
+              "RelativeDocumentMoniker": "CalcularSueldoEmpleados\\Empleados\\CalcularIngresosEmpleados.cs",
+              "ToolTip": "C:\\CSharp_Repo\\miPrimerApp\\CalcularSueldoEmpleados\\Empleados\\CalcularIngresosEmpleados.cs",
+              "RelativeToolTip": "CalcularSueldoEmpleados\\Empleados\\CalcularIngresosEmpleados.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAwDQAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T01:32:41.339Z",
+              "WhenOpened": "2024-08-24T00:41:05.597Z",
               "EditorCaption": ""
             }
           ]

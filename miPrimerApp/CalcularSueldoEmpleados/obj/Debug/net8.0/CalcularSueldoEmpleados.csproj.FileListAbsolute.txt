@@ -1,0 +1,15 @@
+C:\CSharp_Repo\miPrimerApp\CalcularSueldoEmpleados\bin\Debug\net8.0\CalcularSueldoEmpleados.exe
+C:\CSharp_Repo\miPrimerApp\CalcularSueldoEmpleados\bin\Debug\net8.0\CalcularSueldoEmpleados.deps.json
+C:\CSharp_Repo\miPrimerApp\CalcularSueldoEmpleados\bin\Debug\net8.0\CalcularSueldoEmpleados.runtimeconfig.json
+C:\CSharp_Repo\miPrimerApp\CalcularSueldoEmpleados\bin\Debug\net8.0\CalcularSueldoEmpleados.dll
+C:\CSharp_Repo\miPrimerApp\CalcularSueldoEmpleados\bin\Debug\net8.0\CalcularSueldoEmpleados.pdb
+C:\CSharp_Repo\miPrimerApp\CalcularSueldoEmpleados\obj\Debug\net8.0\CalcularSueldoEmpleados.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp_Repo\miPrimerApp\CalcularSueldoEmpleados\obj\Debug\net8.0\CalcularSueldoEmpleados.AssemblyInfoInputs.cache
+C:\CSharp_Repo\miPrimerApp\CalcularSueldoEmpleados\obj\Debug\net8.0\CalcularSueldoEmpleados.AssemblyInfo.cs
+C:\CSharp_Repo\miPrimerApp\CalcularSueldoEmpleados\obj\Debug\net8.0\CalcularSueldoEmpleados.csproj.CoreCompileInputs.cache
+C:\CSharp_Repo\miPrimerApp\CalcularSueldoEmpleados\obj\Debug\net8.0\CalcularSueldoEmpleados.sourcelink.json
+C:\CSharp_Repo\miPrimerApp\CalcularSueldoEmpleados\obj\Debug\net8.0\CalcularSueldoEmpleados.dll
+C:\CSharp_Repo\miPrimerApp\CalcularSueldoEmpleados\obj\Debug\net8.0\refint\CalcularSueldoEmpleados.dll
+C:\CSharp_Repo\miPrimerApp\CalcularSueldoEmpleados\obj\Debug\net8.0\CalcularSueldoEmpleados.pdb
+C:\CSharp_Repo\miPrimerApp\CalcularSueldoEmpleados\obj\Debug\net8.0\CalcularSueldoEmpleados.genruntimeconfig.cache
+C:\CSharp_Repo\miPrimerApp\CalcularSueldoEmpleados\obj\Debug\net8.0\ref\CalcularSueldoEmpleados.dll

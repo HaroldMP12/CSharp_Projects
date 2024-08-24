@@ -1,0 +1,15 @@
+C:\CSharp_Repo\miPrimerApp\CalcularBaseTriangulo\bin\Debug\net8.0\CalcularBaseTriangulo.exe
+C:\CSharp_Repo\miPrimerApp\CalcularBaseTriangulo\bin\Debug\net8.0\CalcularBaseTriangulo.deps.json
+C:\CSharp_Repo\miPrimerApp\CalcularBaseTriangulo\bin\Debug\net8.0\CalcularBaseTriangulo.runtimeconfig.json
+C:\CSharp_Repo\miPrimerApp\CalcularBaseTriangulo\bin\Debug\net8.0\CalcularBaseTriangulo.dll
+C:\CSharp_Repo\miPrimerApp\CalcularBaseTriangulo\bin\Debug\net8.0\CalcularBaseTriangulo.pdb
+C:\CSharp_Repo\miPrimerApp\CalcularBaseTriangulo\obj\Debug\net8.0\CalcularBaseTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp_Repo\miPrimerApp\CalcularBaseTriangulo\obj\Debug\net8.0\CalcularBaseTriangulo.AssemblyInfoInputs.cache
+C:\CSharp_Repo\miPrimerApp\CalcularBaseTriangulo\obj\Debug\net8.0\CalcularBaseTriangulo.AssemblyInfo.cs
+C:\CSharp_Repo\miPrimerApp\CalcularBaseTriangulo\obj\Debug\net8.0\CalcularBaseTriangulo.csproj.CoreCompileInputs.cache
+C:\CSharp_Repo\miPrimerApp\CalcularBaseTriangulo\obj\Debug\net8.0\CalcularBaseTriangulo.sourcelink.json
+C:\CSharp_Repo\miPrimerApp\CalcularBaseTriangulo\obj\Debug\net8.0\CalcularBaseTriangulo.dll
+C:\CSharp_Repo\miPrimerApp\CalcularBaseTriangulo\obj\Debug\net8.0\refint\CalcularBaseTriangulo.dll
+C:\CSharp_Repo\miPrimerApp\CalcularBaseTriangulo\obj\Debug\net8.0\CalcularBaseTriangulo.pdb
+C:\CSharp_Repo\miPrimerApp\CalcularBaseTriangulo\obj\Debug\net8.0\CalcularBaseTriangulo.genruntimeconfig.cache
+C:\CSharp_Repo\miPrimerApp\CalcularBaseTriangulo\obj\Debug\net8.0\ref\CalcularBaseTriangulo.dll

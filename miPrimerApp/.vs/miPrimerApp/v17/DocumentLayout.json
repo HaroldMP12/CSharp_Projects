@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\CSharp_Repo\\miPrimerApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C392889-644E-40AD-90A7-5E424E97B5C6}|CalcularSueldoEmpleados\\CalcularSueldoEmpleados.csproj|c:\\csharp_repo\\miprimerapp\\calcularsueldoempleados\\empleados\\calcularingresosempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C392889-644E-40AD-90A7-5E424E97B5C6}|CalcularSueldoEmpleados\\CalcularSueldoEmpleados.csproj|solutionrelative:calcularsueldoempleados\\empleados\\calcularingresosempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C392889-644E-40AD-90A7-5E424E97B5C6}|CalcularSueldoEmpleados\\CalcularSueldoEmpleados.csproj|c:\\csharp_repo\\miprimerapp\\calcularsueldoempleados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C392889-644E-40AD-90A7-5E424E97B5C6}|CalcularSueldoEmpleados\\CalcularSueldoEmpleados.csproj|solutionrelative:calcularsueldoempleados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +18,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -18,6 +31,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CSharp_Repo\\miPrimerApp\\CalcularSueldoEmpleados\\Program.cs",
+              "RelativeDocumentMoniker": "CalcularSueldoEmpleados\\Program.cs",
+              "ToolTip": "C:\\CSharp_Repo\\miPrimerApp\\CalcularSueldoEmpleados\\Program.cs",
+              "RelativeToolTip": "CalcularSueldoEmpleados\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T00:58:26.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalcularIngresosEmpleados.cs",
+              "DocumentMoniker": "C:\\CSharp_Repo\\miPrimerApp\\CalcularSueldoEmpleados\\Empleados\\CalcularIngresosEmpleados.cs",
+              "RelativeDocumentMoniker": "CalcularSueldoEmpleados\\Empleados\\CalcularIngresosEmpleados.cs",
+              "ToolTip": "C:\\CSharp_Repo\\miPrimerApp\\CalcularSueldoEmpleados\\Empleados\\CalcularIngresosEmpleados.cs",
+              "RelativeToolTip": "CalcularSueldoEmpleados\\Empleados\\CalcularIngresosEmpleados.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAwCkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T00:41:05.597Z",
+              "EditorCaption": ""
             }
           ]
         }
