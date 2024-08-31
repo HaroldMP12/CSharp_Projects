@@ -1,0 +1,15 @@
+C:\CSharp_Repo\miPrimerApp\PracticaArrays\bin\Debug\net8.0\PracticaArrays.exe
+C:\CSharp_Repo\miPrimerApp\PracticaArrays\bin\Debug\net8.0\PracticaArrays.deps.json
+C:\CSharp_Repo\miPrimerApp\PracticaArrays\bin\Debug\net8.0\PracticaArrays.runtimeconfig.json
+C:\CSharp_Repo\miPrimerApp\PracticaArrays\bin\Debug\net8.0\PracticaArrays.dll
+C:\CSharp_Repo\miPrimerApp\PracticaArrays\bin\Debug\net8.0\PracticaArrays.pdb
+C:\CSharp_Repo\miPrimerApp\PracticaArrays\obj\Debug\net8.0\PracticaArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp_Repo\miPrimerApp\PracticaArrays\obj\Debug\net8.0\PracticaArrays.AssemblyInfoInputs.cache
+C:\CSharp_Repo\miPrimerApp\PracticaArrays\obj\Debug\net8.0\PracticaArrays.AssemblyInfo.cs
+C:\CSharp_Repo\miPrimerApp\PracticaArrays\obj\Debug\net8.0\PracticaArrays.csproj.CoreCompileInputs.cache
+C:\CSharp_Repo\miPrimerApp\PracticaArrays\obj\Debug\net8.0\PracticaArrays.sourcelink.json
+C:\CSharp_Repo\miPrimerApp\PracticaArrays\obj\Debug\net8.0\PracticaArrays.dll
+C:\CSharp_Repo\miPrimerApp\PracticaArrays\obj\Debug\net8.0\refint\PracticaArrays.dll
+C:\CSharp_Repo\miPrimerApp\PracticaArrays\obj\Debug\net8.0\PracticaArrays.pdb
+C:\CSharp_Repo\miPrimerApp\PracticaArrays\obj\Debug\net8.0\PracticaArrays.genruntimeconfig.cache
+C:\CSharp_Repo\miPrimerApp\PracticaArrays\obj\Debug\net8.0\ref\PracticaArrays.dll

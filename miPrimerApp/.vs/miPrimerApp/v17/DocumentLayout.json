@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\CSharp_Repo\\miPrimerApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C392889-644E-40AD-90A7-5E424E97B5C6}|CalcularSueldoEmpleados\\CalcularSueldoEmpleados.csproj|c:\\csharp_repo\\miprimerapp\\calcularsueldoempleados\\empleados\\calcularingresosempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C392889-644E-40AD-90A7-5E424E97B5C6}|CalcularSueldoEmpleados\\CalcularSueldoEmpleados.csproj|solutionrelative:calcularsueldoempleados\\empleados\\calcularingresosempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8EA1488D-F483-4181-A34D-3291C5742BA2}|ProgramaArray1\\ProgramaArray1.csproj|c:\\csharp_repo\\miprimerapp\\programaarray1\\practicaarray3\\calcularnelementos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA1488D-F483-4181-A34D-3291C5742BA2}|ProgramaArray1\\ProgramaArray1.csproj|solutionrelative:programaarray1\\practicaarray3\\calcularnelementos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C392889-644E-40AD-90A7-5E424E97B5C6}|CalcularSueldoEmpleados\\CalcularSueldoEmpleados.csproj|c:\\csharp_repo\\miprimerapp\\calcularsueldoempleados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C392889-644E-40AD-90A7-5E424E97B5C6}|CalcularSueldoEmpleados\\CalcularSueldoEmpleados.csproj|solutionrelative:calcularsueldoempleados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8EA1488D-F483-4181-A34D-3291C5742BA2}|ProgramaArray1\\ProgramaArray1.csproj|c:\\csharp_repo\\miprimerapp\\programaarray1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA1488D-F483-4181-A34D-3291C5742BA2}|ProgramaArray1\\ProgramaArray1.csproj|solutionrelative:programaarray1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,12 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -33,29 +29,33 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\CSharp_Repo\\miPrimerApp\\CalcularSueldoEmpleados\\Program.cs",
-              "RelativeDocumentMoniker": "CalcularSueldoEmpleados\\Program.cs",
-              "ToolTip": "C:\\CSharp_Repo\\miPrimerApp\\CalcularSueldoEmpleados\\Program.cs",
-              "RelativeToolTip": "CalcularSueldoEmpleados\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T00:58:26.793Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CalcularIngresosEmpleados.cs",
-              "DocumentMoniker": "C:\\CSharp_Repo\\miPrimerApp\\CalcularSueldoEmpleados\\Empleados\\CalcularIngresosEmpleados.cs",
-              "RelativeDocumentMoniker": "CalcularSueldoEmpleados\\Empleados\\CalcularIngresosEmpleados.cs",
-              "ToolTip": "C:\\CSharp_Repo\\miPrimerApp\\CalcularSueldoEmpleados\\Empleados\\CalcularIngresosEmpleados.cs",
-              "RelativeToolTip": "CalcularSueldoEmpleados\\Empleados\\CalcularIngresosEmpleados.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAwCkAAAAlAAAAAAAAAA==",
+              "Title": "CalcularNElementos.cs",
+              "DocumentMoniker": "C:\\CSharp_Repo\\miPrimerApp\\ProgramaArray1\\PracticaArray3\\CalcularNElementos.cs",
+              "RelativeDocumentMoniker": "ProgramaArray1\\PracticaArray3\\CalcularNElementos.cs",
+              "ToolTip": "C:\\CSharp_Repo\\miPrimerApp\\ProgramaArray1\\PracticaArray3\\CalcularNElementos.cs",
+              "RelativeToolTip": "ProgramaArray1\\PracticaArray3\\CalcularNElementos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T00:41:05.597Z",
+              "WhenOpened": "2024-08-31T02:44:12.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CSharp_Repo\\miPrimerApp\\ProgramaArray1\\Program.cs",
+              "RelativeDocumentMoniker": "ProgramaArray1\\Program.cs",
+              "ToolTip": "C:\\CSharp_Repo\\miPrimerApp\\ProgramaArray1\\Program.cs",
+              "RelativeToolTip": "ProgramaArray1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T02:39:10.146Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,15 @@
+C:\CSharp_Repo\miPrimerApp\EjemplosResumenArrays\bin\Debug\net8.0\EjemplosResumenArrays.exe
+C:\CSharp_Repo\miPrimerApp\EjemplosResumenArrays\bin\Debug\net8.0\EjemplosResumenArrays.deps.json
+C:\CSharp_Repo\miPrimerApp\EjemplosResumenArrays\bin\Debug\net8.0\EjemplosResumenArrays.runtimeconfig.json
+C:\CSharp_Repo\miPrimerApp\EjemplosResumenArrays\bin\Debug\net8.0\EjemplosResumenArrays.dll
+C:\CSharp_Repo\miPrimerApp\EjemplosResumenArrays\bin\Debug\net8.0\EjemplosResumenArrays.pdb
+C:\CSharp_Repo\miPrimerApp\EjemplosResumenArrays\obj\Debug\net8.0\EjemplosResumenArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp_Repo\miPrimerApp\EjemplosResumenArrays\obj\Debug\net8.0\EjemplosResumenArrays.AssemblyInfoInputs.cache
+C:\CSharp_Repo\miPrimerApp\EjemplosResumenArrays\obj\Debug\net8.0\EjemplosResumenArrays.AssemblyInfo.cs
+C:\CSharp_Repo\miPrimerApp\EjemplosResumenArrays\obj\Debug\net8.0\EjemplosResumenArrays.csproj.CoreCompileInputs.cache
+C:\CSharp_Repo\miPrimerApp\EjemplosResumenArrays\obj\Debug\net8.0\EjemplosResumenArrays.sourcelink.json
+C:\CSharp_Repo\miPrimerApp\EjemplosResumenArrays\obj\Debug\net8.0\EjemplosResumenArrays.dll
+C:\CSharp_Repo\miPrimerApp\EjemplosResumenArrays\obj\Debug\net8.0\refint\EjemplosResumenArrays.dll
+C:\CSharp_Repo\miPrimerApp\EjemplosResumenArrays\obj\Debug\net8.0\EjemplosResumenArrays.pdb
+C:\CSharp_Repo\miPrimerApp\EjemplosResumenArrays\obj\Debug\net8.0\EjemplosResumenArrays.genruntimeconfig.cache
+C:\CSharp_Repo\miPrimerApp\EjemplosResumenArrays\obj\Debug\net8.0\ref\EjemplosResumenArrays.dll

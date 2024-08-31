@@ -13,9 +13,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalcularBuclesFor", "Calcul
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalcularLotePiezas", "CalcularLotePiezas\CalcularLotePiezas.csproj", "{B69F2414-837E-46F8-ADEC-8463DF740342}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcularBaseTriangulo", "CalcularBaseTriangulo\CalcularBaseTriangulo.csproj", "{BD1C8A54-5873-44F0-B1B8-7BAFDB57BD1C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalcularBaseTriangulo", "CalcularBaseTriangulo\CalcularBaseTriangulo.csproj", "{BD1C8A54-5873-44F0-B1B8-7BAFDB57BD1C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcularSueldoEmpleados", "CalcularSueldoEmpleados\CalcularSueldoEmpleados.csproj", "{4C392889-644E-40AD-90A7-5E424E97B5C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalcularSueldoEmpleados", "CalcularSueldoEmpleados\CalcularSueldoEmpleados.csproj", "{4C392889-644E-40AD-90A7-5E424E97B5C6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticaArrays", "PracticaArrays\PracticaArrays.csproj", "{759B5305-CB05-4B82-AB75-642A33E3154E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EjemplosResumenArrays", "EjemplosResumenArrays\EjemplosResumenArrays.csproj", "{045434DA-CEA9-42E4-A187-B4378FF44DC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramaArray1", "ProgramaArray1\ProgramaArray1.csproj", "{8EA1488D-F483-4181-A34D-3291C5742BA2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +57,18 @@ Global
 		{4C392889-644E-40AD-90A7-5E424E97B5C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C392889-644E-40AD-90A7-5E424E97B5C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C392889-644E-40AD-90A7-5E424E97B5C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{759B5305-CB05-4B82-AB75-642A33E3154E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{759B5305-CB05-4B82-AB75-642A33E3154E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{759B5305-CB05-4B82-AB75-642A33E3154E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{759B5305-CB05-4B82-AB75-642A33E3154E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{045434DA-CEA9-42E4-A187-B4378FF44DC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{045434DA-CEA9-42E4-A187-B4378FF44DC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{045434DA-CEA9-42E4-A187-B4378FF44DC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{045434DA-CEA9-42E4-A187-B4378FF44DC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EA1488D-F483-4181-A34D-3291C5742BA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EA1488D-F483-4181-A34D-3291C5742BA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EA1488D-F483-4181-A34D-3291C5742BA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EA1488D-F483-4181-A34D-3291C5742BA2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

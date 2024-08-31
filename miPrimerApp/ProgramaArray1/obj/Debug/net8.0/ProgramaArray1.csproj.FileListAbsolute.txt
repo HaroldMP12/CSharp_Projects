@@ -1,0 +1,15 @@
+C:\CSharp_Repo\miPrimerApp\ProgramaArray1\bin\Debug\net8.0\ProgramaArray1.exe
+C:\CSharp_Repo\miPrimerApp\ProgramaArray1\bin\Debug\net8.0\ProgramaArray1.deps.json
+C:\CSharp_Repo\miPrimerApp\ProgramaArray1\bin\Debug\net8.0\ProgramaArray1.runtimeconfig.json
+C:\CSharp_Repo\miPrimerApp\ProgramaArray1\bin\Debug\net8.0\ProgramaArray1.dll
+C:\CSharp_Repo\miPrimerApp\ProgramaArray1\bin\Debug\net8.0\ProgramaArray1.pdb
+C:\CSharp_Repo\miPrimerApp\ProgramaArray1\obj\Debug\net8.0\ProgramaArray1.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp_Repo\miPrimerApp\ProgramaArray1\obj\Debug\net8.0\ProgramaArray1.AssemblyInfoInputs.cache
+C:\CSharp_Repo\miPrimerApp\ProgramaArray1\obj\Debug\net8.0\ProgramaArray1.AssemblyInfo.cs
+C:\CSharp_Repo\miPrimerApp\ProgramaArray1\obj\Debug\net8.0\ProgramaArray1.csproj.CoreCompileInputs.cache
+C:\CSharp_Repo\miPrimerApp\ProgramaArray1\obj\Debug\net8.0\ProgramaArray1.sourcelink.json
+C:\CSharp_Repo\miPrimerApp\ProgramaArray1\obj\Debug\net8.0\ProgramaArray1.dll
+C:\CSharp_Repo\miPrimerApp\ProgramaArray1\obj\Debug\net8.0\refint\ProgramaArray1.dll
+C:\CSharp_Repo\miPrimerApp\ProgramaArray1\obj\Debug\net8.0\ProgramaArray1.pdb
+C:\CSharp_Repo\miPrimerApp\ProgramaArray1\obj\Debug\net8.0\ProgramaArray1.genruntimeconfig.cache
+C:\CSharp_Repo\miPrimerApp\ProgramaArray1\obj\Debug\net8.0\ref\ProgramaArray1.dll

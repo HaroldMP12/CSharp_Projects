@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalcularLotePiezas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e0528a458ecd7ae89ea522977a951d6b251c697")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac2bbfa1a41374b859e958d6eaa0ca2db86dccc9")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalcularLotePiezas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalcularLotePiezas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
