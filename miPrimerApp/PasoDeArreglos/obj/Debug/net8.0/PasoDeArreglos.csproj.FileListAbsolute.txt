@@ -1,0 +1,15 @@
+C:\CSharp_Repo\miPrimerApp\PasoDeArreglos\bin\Debug\net8.0\PasoDeArreglos.exe
+C:\CSharp_Repo\miPrimerApp\PasoDeArreglos\bin\Debug\net8.0\PasoDeArreglos.deps.json
+C:\CSharp_Repo\miPrimerApp\PasoDeArreglos\bin\Debug\net8.0\PasoDeArreglos.runtimeconfig.json
+C:\CSharp_Repo\miPrimerApp\PasoDeArreglos\bin\Debug\net8.0\PasoDeArreglos.dll
+C:\CSharp_Repo\miPrimerApp\PasoDeArreglos\bin\Debug\net8.0\PasoDeArreglos.pdb
+C:\CSharp_Repo\miPrimerApp\PasoDeArreglos\obj\Debug\net8.0\PasoDeArreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp_Repo\miPrimerApp\PasoDeArreglos\obj\Debug\net8.0\PasoDeArreglos.AssemblyInfoInputs.cache
+C:\CSharp_Repo\miPrimerApp\PasoDeArreglos\obj\Debug\net8.0\PasoDeArreglos.AssemblyInfo.cs
+C:\CSharp_Repo\miPrimerApp\PasoDeArreglos\obj\Debug\net8.0\PasoDeArreglos.csproj.CoreCompileInputs.cache
+C:\CSharp_Repo\miPrimerApp\PasoDeArreglos\obj\Debug\net8.0\PasoDeArreglos.sourcelink.json
+C:\CSharp_Repo\miPrimerApp\PasoDeArreglos\obj\Debug\net8.0\PasoDeArreglos.dll
+C:\CSharp_Repo\miPrimerApp\PasoDeArreglos\obj\Debug\net8.0\refint\PasoDeArreglos.dll
+C:\CSharp_Repo\miPrimerApp\PasoDeArreglos\obj\Debug\net8.0\PasoDeArreglos.pdb
+C:\CSharp_Repo\miPrimerApp\PasoDeArreglos\obj\Debug\net8.0\PasoDeArreglos.genruntimeconfig.cache
+C:\CSharp_Repo\miPrimerApp\PasoDeArreglos\obj\Debug\net8.0\ref\PasoDeArreglos.dll

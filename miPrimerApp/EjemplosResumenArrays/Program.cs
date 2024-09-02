@@ -14,5 +14,9 @@ CalcularValArray valArray = new CalcularValArray();
 
 //valArray.TirarDado();
 
-valArray.EncuestaEstudiantes();
+//valArray.EncuestaEstudiantes();
+
+valArray.ArregloForEach();
+
+
 Console.ReadLine();

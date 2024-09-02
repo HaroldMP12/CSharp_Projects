@@ -150,5 +150,18 @@
             }
         }
         #endregion
+
+        #region "Octavo ejemplo del resumen"
+        public void ArregloForEach()
+        {
+            int[] arreglo = {87,68,94,100,83,78,85,91,76,87 };
+            int total = 0;
+
+            foreach (int numero in arreglo)
+                total += numero;
+
+            Console.WriteLine("Total de elementos en el arreglo: {0}", total);
+        }
+        #endregion
     }
 }

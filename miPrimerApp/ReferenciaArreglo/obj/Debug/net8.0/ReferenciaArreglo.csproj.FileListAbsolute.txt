@@ -1,0 +1,15 @@
+C:\CSharp_Repo\miPrimerApp\ReferenciaArreglo\bin\Debug\net8.0\ReferenciaArreglo.exe
+C:\CSharp_Repo\miPrimerApp\ReferenciaArreglo\bin\Debug\net8.0\ReferenciaArreglo.deps.json
+C:\CSharp_Repo\miPrimerApp\ReferenciaArreglo\bin\Debug\net8.0\ReferenciaArreglo.runtimeconfig.json
+C:\CSharp_Repo\miPrimerApp\ReferenciaArreglo\bin\Debug\net8.0\ReferenciaArreglo.dll
+C:\CSharp_Repo\miPrimerApp\ReferenciaArreglo\bin\Debug\net8.0\ReferenciaArreglo.pdb
+C:\CSharp_Repo\miPrimerApp\ReferenciaArreglo\obj\Debug\net8.0\ReferenciaArreglo.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp_Repo\miPrimerApp\ReferenciaArreglo\obj\Debug\net8.0\ReferenciaArreglo.AssemblyInfoInputs.cache
+C:\CSharp_Repo\miPrimerApp\ReferenciaArreglo\obj\Debug\net8.0\ReferenciaArreglo.AssemblyInfo.cs
+C:\CSharp_Repo\miPrimerApp\ReferenciaArreglo\obj\Debug\net8.0\ReferenciaArreglo.csproj.CoreCompileInputs.cache
+C:\CSharp_Repo\miPrimerApp\ReferenciaArreglo\obj\Debug\net8.0\ReferenciaArreglo.sourcelink.json
+C:\CSharp_Repo\miPrimerApp\ReferenciaArreglo\obj\Debug\net8.0\ReferenciaArreglo.dll
+C:\CSharp_Repo\miPrimerApp\ReferenciaArreglo\obj\Debug\net8.0\refint\ReferenciaArreglo.dll
+C:\CSharp_Repo\miPrimerApp\ReferenciaArreglo\obj\Debug\net8.0\ReferenciaArreglo.pdb
+C:\CSharp_Repo\miPrimerApp\ReferenciaArreglo\obj\Debug\net8.0\ReferenciaArreglo.genruntimeconfig.cache
+C:\CSharp_Repo\miPrimerApp\ReferenciaArreglo\obj\Debug\net8.0\ref\ReferenciaArreglo.dll
