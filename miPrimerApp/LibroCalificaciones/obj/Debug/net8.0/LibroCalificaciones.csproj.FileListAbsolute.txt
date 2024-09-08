@@ -1,0 +1,15 @@
+C:\CSharp_Repo\miPrimerApp\LibroCalificaciones\bin\Debug\net8.0\LibroCalificaciones.exe
+C:\CSharp_Repo\miPrimerApp\LibroCalificaciones\bin\Debug\net8.0\LibroCalificaciones.deps.json
+C:\CSharp_Repo\miPrimerApp\LibroCalificaciones\bin\Debug\net8.0\LibroCalificaciones.runtimeconfig.json
+C:\CSharp_Repo\miPrimerApp\LibroCalificaciones\bin\Debug\net8.0\LibroCalificaciones.dll
+C:\CSharp_Repo\miPrimerApp\LibroCalificaciones\bin\Debug\net8.0\LibroCalificaciones.pdb
+C:\CSharp_Repo\miPrimerApp\LibroCalificaciones\obj\Debug\net8.0\LibroCalificaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp_Repo\miPrimerApp\LibroCalificaciones\obj\Debug\net8.0\LibroCalificaciones.AssemblyInfoInputs.cache
+C:\CSharp_Repo\miPrimerApp\LibroCalificaciones\obj\Debug\net8.0\LibroCalificaciones.AssemblyInfo.cs
+C:\CSharp_Repo\miPrimerApp\LibroCalificaciones\obj\Debug\net8.0\LibroCalificaciones.csproj.CoreCompileInputs.cache
+C:\CSharp_Repo\miPrimerApp\LibroCalificaciones\obj\Debug\net8.0\LibroCalificaciones.sourcelink.json
+C:\CSharp_Repo\miPrimerApp\LibroCalificaciones\obj\Debug\net8.0\LibroCalificaciones.dll
+C:\CSharp_Repo\miPrimerApp\LibroCalificaciones\obj\Debug\net8.0\refint\LibroCalificaciones.dll
+C:\CSharp_Repo\miPrimerApp\LibroCalificaciones\obj\Debug\net8.0\LibroCalificaciones.pdb
+C:\CSharp_Repo\miPrimerApp\LibroCalificaciones\obj\Debug\net8.0\LibroCalificaciones.genruntimeconfig.cache
+C:\CSharp_Repo\miPrimerApp\LibroCalificaciones\obj\Debug\net8.0\ref\LibroCalificaciones.dll
