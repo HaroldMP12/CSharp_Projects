@@ -1,0 +1,15 @@
+C:\CSharp_Repo\miPrimerApp\Ejercicio2POO\obj\Debug\net8.0\Ejercicio2POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp_Repo\miPrimerApp\Ejercicio2POO\obj\Debug\net8.0\Ejercicio2POO.AssemblyInfoInputs.cache
+C:\CSharp_Repo\miPrimerApp\Ejercicio2POO\obj\Debug\net8.0\Ejercicio2POO.AssemblyInfo.cs
+C:\CSharp_Repo\miPrimerApp\Ejercicio2POO\obj\Debug\net8.0\Ejercicio2POO.csproj.CoreCompileInputs.cache
+C:\CSharp_Repo\miPrimerApp\Ejercicio2POO\obj\Debug\net8.0\Ejercicio2POO.sourcelink.json
+C:\CSharp_Repo\miPrimerApp\Ejercicio2POO\bin\Debug\net8.0\Ejercicio2POO.exe
+C:\CSharp_Repo\miPrimerApp\Ejercicio2POO\bin\Debug\net8.0\Ejercicio2POO.deps.json
+C:\CSharp_Repo\miPrimerApp\Ejercicio2POO\bin\Debug\net8.0\Ejercicio2POO.runtimeconfig.json
+C:\CSharp_Repo\miPrimerApp\Ejercicio2POO\bin\Debug\net8.0\Ejercicio2POO.dll
+C:\CSharp_Repo\miPrimerApp\Ejercicio2POO\bin\Debug\net8.0\Ejercicio2POO.pdb
+C:\CSharp_Repo\miPrimerApp\Ejercicio2POO\obj\Debug\net8.0\Ejercicio2POO.dll
+C:\CSharp_Repo\miPrimerApp\Ejercicio2POO\obj\Debug\net8.0\refint\Ejercicio2POO.dll
+C:\CSharp_Repo\miPrimerApp\Ejercicio2POO\obj\Debug\net8.0\Ejercicio2POO.pdb
+C:\CSharp_Repo\miPrimerApp\Ejercicio2POO\obj\Debug\net8.0\Ejercicio2POO.genruntimeconfig.cache
+C:\CSharp_Repo\miPrimerApp\Ejercicio2POO\obj\Debug\net8.0\ref\Ejercicio2POO.dll

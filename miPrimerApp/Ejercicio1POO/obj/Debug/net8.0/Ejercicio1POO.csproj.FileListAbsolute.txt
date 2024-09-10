@@ -1,0 +1,15 @@
+C:\CSharp_Repo\miPrimerApp\Ejercicio1POO\bin\Debug\net8.0\Ejercicio1POO.exe
+C:\CSharp_Repo\miPrimerApp\Ejercicio1POO\bin\Debug\net8.0\Ejercicio1POO.deps.json
+C:\CSharp_Repo\miPrimerApp\Ejercicio1POO\bin\Debug\net8.0\Ejercicio1POO.runtimeconfig.json
+C:\CSharp_Repo\miPrimerApp\Ejercicio1POO\bin\Debug\net8.0\Ejercicio1POO.dll
+C:\CSharp_Repo\miPrimerApp\Ejercicio1POO\bin\Debug\net8.0\Ejercicio1POO.pdb
+C:\CSharp_Repo\miPrimerApp\Ejercicio1POO\obj\Debug\net8.0\Ejercicio1POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp_Repo\miPrimerApp\Ejercicio1POO\obj\Debug\net8.0\Ejercicio1POO.AssemblyInfoInputs.cache
+C:\CSharp_Repo\miPrimerApp\Ejercicio1POO\obj\Debug\net8.0\Ejercicio1POO.AssemblyInfo.cs
+C:\CSharp_Repo\miPrimerApp\Ejercicio1POO\obj\Debug\net8.0\Ejercicio1POO.csproj.CoreCompileInputs.cache
+C:\CSharp_Repo\miPrimerApp\Ejercicio1POO\obj\Debug\net8.0\Ejercicio1POO.sourcelink.json
+C:\CSharp_Repo\miPrimerApp\Ejercicio1POO\obj\Debug\net8.0\Ejercicio1POO.dll
+C:\CSharp_Repo\miPrimerApp\Ejercicio1POO\obj\Debug\net8.0\refint\Ejercicio1POO.dll
+C:\CSharp_Repo\miPrimerApp\Ejercicio1POO\obj\Debug\net8.0\Ejercicio1POO.pdb
+C:\CSharp_Repo\miPrimerApp\Ejercicio1POO\obj\Debug\net8.0\Ejercicio1POO.genruntimeconfig.cache
+C:\CSharp_Repo\miPrimerApp\Ejercicio1POO\obj\Debug\net8.0\ref\Ejercicio1POO.dll

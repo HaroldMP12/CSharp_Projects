@@ -1,0 +1,15 @@
+C:\CSharp_Repo\miPrimerApp\Ejercicio3POO\bin\Debug\net8.0\Ejercicio3POO.exe
+C:\CSharp_Repo\miPrimerApp\Ejercicio3POO\bin\Debug\net8.0\Ejercicio3POO.deps.json
+C:\CSharp_Repo\miPrimerApp\Ejercicio3POO\bin\Debug\net8.0\Ejercicio3POO.runtimeconfig.json
+C:\CSharp_Repo\miPrimerApp\Ejercicio3POO\bin\Debug\net8.0\Ejercicio3POO.dll
+C:\CSharp_Repo\miPrimerApp\Ejercicio3POO\bin\Debug\net8.0\Ejercicio3POO.pdb
+C:\CSharp_Repo\miPrimerApp\Ejercicio3POO\obj\Debug\net8.0\Ejercicio3POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp_Repo\miPrimerApp\Ejercicio3POO\obj\Debug\net8.0\Ejercicio3POO.AssemblyInfoInputs.cache
+C:\CSharp_Repo\miPrimerApp\Ejercicio3POO\obj\Debug\net8.0\Ejercicio3POO.AssemblyInfo.cs
+C:\CSharp_Repo\miPrimerApp\Ejercicio3POO\obj\Debug\net8.0\Ejercicio3POO.csproj.CoreCompileInputs.cache
+C:\CSharp_Repo\miPrimerApp\Ejercicio3POO\obj\Debug\net8.0\Ejercicio3POO.sourcelink.json
+C:\CSharp_Repo\miPrimerApp\Ejercicio3POO\obj\Debug\net8.0\Ejercicio3POO.dll
+C:\CSharp_Repo\miPrimerApp\Ejercicio3POO\obj\Debug\net8.0\refint\Ejercicio3POO.dll
+C:\CSharp_Repo\miPrimerApp\Ejercicio3POO\obj\Debug\net8.0\Ejercicio3POO.pdb
+C:\CSharp_Repo\miPrimerApp\Ejercicio3POO\obj\Debug\net8.0\Ejercicio3POO.genruntimeconfig.cache
+C:\CSharp_Repo\miPrimerApp\Ejercicio3POO\obj\Debug\net8.0\ref\Ejercicio3POO.dll
