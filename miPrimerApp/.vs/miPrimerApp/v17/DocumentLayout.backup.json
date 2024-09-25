@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\CSharp_Repo\\miPrimerApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D688033-05CA-45B2-863A-000FBB391974}|CalculoSalario\\CalculoSalario.csproj|c:\\csharp_repo\\miprimerapp\\calculosalario\\class\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D688033-05CA-45B2-863A-000FBB391974}|CalculoSalario\\CalculoSalario.csproj|solutionrelative:calculosalario\\class\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D688033-05CA-45B2-863A-000FBB391974}|CalculoSalario\\CalculoSalario.csproj|c:\\csharp_repo\\miprimerapp\\calculosalario\\class\\empleadoasalariado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D688033-05CA-45B2-863A-000FBB391974}|CalculoSalario\\CalculoSalario.csproj|solutionrelative:calculosalario\\class\\empleadoasalariado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D688033-05CA-45B2-863A-000FBB391974}|CalculoSalario\\CalculoSalario.csproj|c:\\csharp_repo\\miprimerapp\\calculosalario\\diagram\\empleadodiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{3D688033-05CA-45B2-863A-000FBB391974}|CalculoSalario\\CalculoSalario.csproj|solutionrelative:calculosalario\\diagram\\empleadodiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,34 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Empleado.cs",
-              "DocumentMoniker": "C:\\CSharp_Repo\\miPrimerApp\\CalculoSalario\\Class\\Empleado.cs",
-              "RelativeDocumentMoniker": "CalculoSalario\\Class\\Empleado.cs",
-              "ToolTip": "C:\\CSharp_Repo\\miPrimerApp\\CalculoSalario\\Class\\Empleado.cs",
-              "RelativeToolTip": "CalculoSalario\\Class\\Empleado.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T03:09:09.571Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EmpleadoAsalariado.cs",
-              "DocumentMoniker": "C:\\CSharp_Repo\\miPrimerApp\\CalculoSalario\\Class\\EmpleadoAsalariado.cs",
-              "RelativeDocumentMoniker": "CalculoSalario\\Class\\EmpleadoAsalariado.cs",
-              "ToolTip": "C:\\CSharp_Repo\\miPrimerApp\\CalculoSalario\\Class\\EmpleadoAsalariado.cs",
-              "RelativeToolTip": "CalculoSalario\\Class\\EmpleadoAsalariado.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T03:08:52.715Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -53,6 +23,18 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpleadoDiagram.cd",
+              "DocumentMoniker": "C:\\CSharp_Repo\\miPrimerApp\\CalculoSalario\\Diagram\\EmpleadoDiagram.cd",
+              "RelativeDocumentMoniker": "CalculoSalario\\Diagram\\EmpleadoDiagram.cd",
+              "ToolTip": "C:\\CSharp_Repo\\miPrimerApp\\CalculoSalario\\Diagram\\EmpleadoDiagram.cd",
+              "RelativeToolTip": "CalculoSalario\\Diagram\\EmpleadoDiagram.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-09-17T03:14:04.553Z",
+              "EditorCaption": ""
             }
           ]
         }

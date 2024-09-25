@@ -1,37 +1,37 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
   <Class Name="CalculoSalario.Class.Empleado">
-    <Position X="5.25" Y="0.75" Width="1.5" />
+    <Position X="5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAEAAAAgAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAgAAAAAAAEAAAAgAAAAACAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Class\Empleado.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="CalculoSalario.Class.EmpleadoAsalariado">
     <Position X="2" Y="2.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
       <FileName>Class\EmpleadoAsalariado.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="CalculoSalario.Class.EmpleadoPorComision">
-    <Position X="5.25" Y="2.5" Width="1.5" />
+    <Position X="5" Y="2.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <HashCode>AAAAAAAgAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
       <FileName>Class\EmpleadoPorComision.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="CalculoSalario.Class.EmpleadoPorHoras">
-    <Position X="8.5" Y="2.5" Width="1.5" />
+    <Position X="8.25" Y="2.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <HashCode>AAAAAAAgAAAAAIAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
       <FileName>Class\EmpleadoPorHoras.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="CalculoSalario.Class.EmpleadoBaseMasComision">
-    <Position X="5.25" Y="4.25" Width="1.5" />
+    <Position X="5" Y="4.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAgAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Class\EmpleadoBaseMasComision.cs</FileName>
     </TypeIdentifier>
   </Class>
